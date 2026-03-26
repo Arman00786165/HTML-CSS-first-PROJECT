@@ -1,0 +1,67 @@
+html,body{
+    height: 100%;
+    margin:  0;
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: blueviolet;
+}
+.pimg1{
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/053/733/179/small/every-detail-of-a-sleek-modern-car-captured-in-close-up-photo.jpg);
+    min-height: 100%;   
+
+}
+.pimg2{
+    background-image: url(https://img.freepik.com/free-photo/photorealistic-view-off-road-car-with-nature-terrain-weather-conditions_23-2151430054.jpg?semt=ais_hybrid&w=740&q=80);
+    min-height: 600px;   
+
+}
+.pimg3{
+    background-image: url(https://img.freepik.com/premium-photo/green-sports-car-woods-with-sun-rays-coming-through-trees_1153744-183263.jpg);
+    min-height: 600px;
+    
+}
+
+
+.pimg1,
+.pimg2,
+.pimg3{
+    position: relative;
+    background-position: center;
+    background-size:  cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.ptext{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: rgb(187, 13, 13);
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+.textBg{
+    background: black;
+    color: white;
+    padding: 10px;
+}
+
+.section{
+    padding: 50px 80px;
+    text-align: center;
+}
+
+.sectio-light{
+    background-color: #282e34;
+    color: #ddd;
+}
+
+.section-dark{
+    background-color: #282e34;
+    color: #ddd ;
+
+}
