@@ -8,17 +8,17 @@ html,body{
     color: blueviolet;
 }
 .pimg1{
-    background-image: url("C:\Users\mike0\OneDrive\Desktop\image.jpg");
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/053/733/179/small/every-detail-of-a-sleek-modern-car-captured-in-close-up-photo.jpg);
     min-height: 100%;   
 
 }
 .pimg2{
-    background-image: url("C:\Users\mike0\OneDrive\Desktop\image1.jpg");
+    background-image: url(https://img.freepik.com/free-photo/photorealistic-view-off-road-car-with-nature-terrain-weather-conditions_23-2151430054.jpg?semt=ais_hybrid&w=740&q=80);
     min-height: 600px;   
 
 }
 .pimg3{
-    background-image: url("C:\Users\mike0\OneDrive\Desktop\image2.jpg");
+    background-image: url(https://img.freepik.com/premium-photo/green-sports-car-woods-with-sun-rays-coming-through-trees_1153744-183263.jpg);
     min-height: 600px;
     
 }
